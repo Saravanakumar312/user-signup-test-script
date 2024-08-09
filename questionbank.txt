@@ -1,0 +1,15 @@
+1. Which command is used to count the lines?
+a. wc
+b. count
+c. expr
+d. cat
+2. which command is used to read?
+a. expr
+b. bc
+c. read
+d. echo
+3. Which command is used to count the lines?
+a. wc
+b. count
+c. expr
+d. cat
